@@ -1,0 +1,9 @@
+{
+  "name": "rythm-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frida agent for Android arm64, split into modules",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
